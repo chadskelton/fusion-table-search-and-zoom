@@ -7,6 +7,7 @@ https://developers.google.com/fusiontables/docs/samples/search_and_zoom
 Instructions for what to change are in the HTML itself but the main things are:
 
 On both maps:
+
 Line 38: Change map width (and height) to match your needs
 
 Line 53: Lat/lon coordinates for your map centre
